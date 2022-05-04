@@ -45,13 +45,13 @@ Ensure all files are in a decrypted state. Then delete the "hash" file located i
 To reset your salt:
 
 ``
-Ensure all files are in a decrypted state. Then delete the "hash" and "salt" files located in the config directory.
+Ensure all files are in a decrypted state. Then delete the "hash" and "salt" files located in the config directory. This will also reset your password.
 ``
 
 To use a backed up salt:
 
 ``
-Create a "config" directory in the same location as pylocker. Then in that config directory create an extensionless file named "salt" and put the salt into that file.
+Create a "config" directory in the same location as pylocker. Then in that config directory create an extensionless file named "salt" and put the salt into that folder.
 ``
 
 
