@@ -51,7 +51,7 @@ Ensure all files are in a decrypted state. Then delete the "hash" and "salt" fil
 To use a backed up salt:
 
 ``
-Create a "config" directory in the same location as pylocker. Then in that config directory create an extensionless file named "salt" and put the salt into that folder.
+Create a "config" directory in the same location as pylocker. Then in that config directory create an extensionless file named "salt" and put the salt into that file.
 ``
 
 
