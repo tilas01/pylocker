@@ -187,7 +187,9 @@ def main():
         print("If you lose your salt all data encrypted with it WILL be unrecoverable.\n")
     print("Discalimers:")
     print("Do not rename any encrypted files as it may lead to unexpected behaviour.")
-    print("Subdirectory encryption is not supported.")
+    print("Subdirectory/recursive encryption is not supported.")
+    print("Use this program at your own risk. I am not responsbile for your data.")
+    print("Always keep a backup.\n")
     while True:
         key = getpass("Master Password: ")
         keyhash = pbkdf2_hmac('sha256', key.encode('utf-8'), salt, 100000)

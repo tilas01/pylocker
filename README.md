@@ -7,6 +7,7 @@ An easy-to-use python application to encrypt/decrypt files.
 Contents
 ========
 
+ * [Disclaimer](#Disclaimer)
  * [Why?](#why)
  * [Requirements](#requirements)
  * [Installation](#installation)
@@ -15,6 +16,10 @@ Contents
  * [Note](#note)
  * [To-Do](#to-do)
  * [License](#license)
+
+### Disclaimer
+---
+Use this program at your own risk. I am not responsible your data. Always keep a backup
 
 ### Why?
 ---
