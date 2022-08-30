@@ -6,6 +6,8 @@ An easy-to-use python application to encrypt/decrypt files.
 
 This repo is being replaced by [`sdcrypt`](https://www.github.com/tilas01/sdcrypt) I will keep this repo up but it will no longer be updated. If you wish to continue using this tool I recommend you switch to [`sdcrypt`](https://www.github.com/tilas01/sdcrypt).
 
+You can move programs by copy and pasting your "config" folder into the sdcrypt path.
+
 [`sdcrypt`](https://www.github.com/tilas01/sdcrypt) Improvements:
 
 * Recursive Encryption/Decryption
