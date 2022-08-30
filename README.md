@@ -11,12 +11,20 @@ You can move programs by copy and pasting your "config" folder into the [`sdcryp
 [`sdcrypt`](https://www.github.com/tilas01/sdcrypt) Improvements:
 
 * Recursive Encryption/Decryption
+
 * Folder name encryption
+
 * Better code
+
 * More reliable
+
 * Clearer errors
+
 * Minor modifications to UI
+
 * Will receive any changes I make
+
+The only reason I would recommend you not to switch yet is if you need folder encryption that is not recursive or that does not encrypt the folders names as these features are not toggleable (yet).
 
 ![pylockerdemo](img/pylockerdemo.gif)
 
