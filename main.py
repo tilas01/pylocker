@@ -190,6 +190,7 @@ def main():
     print("Subdirectory/recursive encryption is not supported.")
     print("Use this program at your own risk. I am not responsbile for your data.")
     print("Always keep a backup.\n")
+    print("Message:\nThis project is being replaced by sdcrypt (https://www.github.com/tilas01/sdcrypt).\nPlease see this projects current README for more information.\n")
     while True:
         key = getpass("Master Password: ")
         keyhash = pbkdf2_hmac('sha256', key.encode('utf-8'), salt, 100000)
