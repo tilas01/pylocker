@@ -10,6 +10,9 @@ This repo is being replaced by [`sdcrypt`](https://www.github.com/tilas01/sdcryp
 
 * Recursive Encryption/Decryption
 * Better code
+* More reliable
+* Clearer errors
+* Minor modifications to UI
 * Will receive any changes I make
 
 ![pylockerdemo](img/pylockerdemo.gif)
