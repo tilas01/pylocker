@@ -28,7 +28,7 @@ def main():
                     raise StopIteration
         except StopIteration:
             print("Folder contains one or more subdirectories.")
-            print("Recursive encryption/decryption will never be supported as to prevent damage to the OS.")
+            print("Recursive encryption/decryption is not supported.")
             while True:
                 a = input("These directories will be ignored would you like to continue [y/n]? ")
                 if a == "y":
