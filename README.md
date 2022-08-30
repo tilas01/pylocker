@@ -83,7 +83,7 @@ Create a "config" directory in the same location as pylocker. Then in that confi
 
 ### Note
 ---
-Recursive encryption/decryption will never be supported as to prevent damage to the OS or misuse of this code. Subdirectories will simply be ignored.
+Recursive encryption/decryption is not supported.
 
 ### To-Do
 ---
