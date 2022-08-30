@@ -11,6 +11,7 @@ You can move programs by copy and pasting your "config" folder into the [`sdcryp
 [`sdcrypt`](https://www.github.com/tilas01/sdcrypt) Improvements:
 
 * Recursive Encryption/Decryption
+* Folder name encryption
 * Better code
 * More reliable
 * Clearer errors
